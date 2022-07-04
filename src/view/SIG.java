@@ -1,4 +1,4 @@
-package SalesInvoiceGenerator;
+package view;
 
 import javax.swing.*;
 import java.awt.*;
@@ -7,10 +7,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.IOException;
-import java.util.jar.JarFile;
-import javax.swing.GroupLayout;
 
 
 public class SIG extends JFrame implements ActionListener {
